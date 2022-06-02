@@ -1,2 +1,2 @@
 # Python-OOP
-Simple Python OOP programs.
+Simple Python OOP program for displaying different shapes using Turtle module.
