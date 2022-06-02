@@ -77,5 +77,5 @@ class Decagon(Polygon):
 		super().__init__('Decagon',10,color,line_thickness,length)	
 
 
-p1=Triangle(color='red')
+p1=Hexagon(color='red')
 p1.draw()
